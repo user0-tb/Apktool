@@ -14,7 +14,7 @@ plugins {
 buildscript {
     dependencies {
         // Proguard doesn't support plugin DSL - https://github.com/Guardsquare/proguard/issues/225
-        classpath("com.guardsquare:proguard-gradle:7.3.2")
+        classpath("com.guardsquare:proguard-gradle:7.4.1")
     }
 }
 
